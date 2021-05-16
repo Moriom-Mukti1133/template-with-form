@@ -1,0 +1,387 @@
+<link href="https://fonts.googleapis.com/css?family=Khula&display=swap" rel="stylesheet">
+body{
+	font-family:khula;
+}
+
+.menu ul li a{
+padding:15px 10px 15px 10px;
+font-size:20px;
+color:#888888;
+}
+.menu ul li a:hover{
+	color:#06d6a0;
+}
+.header-area{
+	height:70px;
+	padding-top:10px;
+	padding-bottom:20px;
+}
+.header-btn{
+	margin-top:10px;
+	position:absolute;
+	right:0;	
+}
+.header-btn a{
+	color:#ffffff;
+	text-align:center;
+	padding:8px 30px 8px 30px;
+	font-size:18px;
+	background:#06d6a0;
+}
+.hero-area{
+	background:url(assets/img/hro-bg.png);
+	min-height:750px;
+	position:relative;
+	margin-bottom:20px;
+}
+.hero{
+	margin-top:280px;
+	
+	
+}
+.hero h1{
+	padding:5px;
+	font-size:40px;
+	margin-bottom:20px;
+	color:#ffffff;
+	margin-left:20px;
+	margin-right:50px;;
+}
+.hero p{
+	color:#ffffff;
+	margin-left:20px;
+	margin-top:5px;
+}
+.hero-form{
+	margin-top:102px;
+	margin-left:100px;
+	min-height:530px;
+	width:410px;
+	background:#fff;
+	position:absolute;
+	right:-201;
+}
+.hero-form h4{
+text-align:center;	
+font-weight:550;
+}
+.contain{
+	margin-top:45px;
+}
+.hero-form p{
+	text-align:center;
+	color:#d3d3d3;	
+}
+.input .row{
+	padding:10px 10px 10px 10px;
+	margin:15px 0px 5px 28px;
+	
+}
+textarea{
+	width:315px;
+}
+placeholder{
+	margin-top:30px;
+}
+.form-btn{
+	margin-top:25px;
+	color:#ffffff;
+	text-align:center;
+	font-size:18px;
+	
+}
+.form-btn input[type="submit"]{
+background:#06d6a0;
+border-radius:10%;
+padding:10px 20px 10px 20px;
+}
+.form-btn input[type="submit"]:hover{
+background:#3691f4;
+}
+.client-area{
+	margin-top:120px;
+}
+.client1{
+	margin-left:80px;
+}
+.client1 img{
+	margin-left: -30px;
+}
+.client2 img{
+	margin-left: -30px;
+}
+.client2{
+	margin-top:-50px;
+}
+.client-contain{
+	margin-left:30px;
+	margin-top:35px;
+	padding:10px;
+}
+.client-contain h4{
+	margin-bottom:30px;
+} 
+.client-contain p{
+	color:#999999;	
+	margin-bottom:30px;
+} 
+.client-contain a{
+	color:#ffffff;
+	text-align:center;
+	background:#06d6a0;
+	padding:10px 18px 10px 18px;
+} 
+.service-area{
+	margin-top:120px;
+	margin-bottom:100px;
+	text-align:center;
+	padding:5px;
+}
+.service-area h3{
+	margin-bottom:25px;
+}
+.service-area p{
+	color:#888888;
+	margin: 0px 370px 0px 370px;
+}
+.services-area{
+	background:#fbfbfb;
+	margin-bottom:20px;
+}
+.service-item{
+	background:#f1e8e8;
+	text-align:center;
+	min-height:230px;
+}
+.service-item:hover{
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#6db3f2+1,6db3f2+1,6db3f2+10,54a3ee+45,3690f0+71,1e69de+100 */
+background: #6db3f2; /* Old browsers */
+background: -moz-linear-gradient(top,  #6db3f2 1%, #6db3f2 1%, #6db3f2 10%, #54a3ee 45%, #3690f0 71%, #1e69de 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #6db3f2 1%,#6db3f2 1%,#6db3f2 10%,#54a3ee 45%,#3690f0 71%,#1e69de 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #6db3f2 1%,#6db3f2 1%,#6db3f2 10%,#54a3ee 45%,#3690f0 71%,#1e69de 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6db3f2', endColorstr='#1e69de',GradientType=0 ); /* IE6-9 */
+
+
+	color:#fff;
+}
+.service-item a i{
+	margin-top:80px;
+	font-size:30px;
+	color:blue;
+}
+.service-item a i:hover{
+	color:#ffffff;
+}
+.service-item h4{
+	margin-top:35px;
+}
+.testimonial{
+	margin-top:150px;
+	margin-bottom:100px;
+}
+.testimonial-contain{
+	text-align:center;
+}
+.testimonial-contain i{
+	margin-bottom:50px;
+	color:blue;
+	background:#fff;
+	border-radius:50%;
+	border:1px solid grey;
+	padding:20px 25px 20px 25px;
+}
+.testimonial-contain h5{
+	font-size:17px;
+	margin-top:40px;
+}
+.testimonial-contain h6{
+	color:#a1a1a1;
+}
+
+.slider{
+	margin-top:100px;
+	margin-bottom:20px;
+	background:#fbfbfb;
+}
+.slider-contain{
+	text-align:center;
+	margin:80px 320px 80px 320px;
+}
+.slider-contain h2{
+	padding:10px;
+}
+.slider-contain p{
+	margin:0px 27px 0px 27px;
+	padding:12px;
+	color:#888888;
+}
+.content-area img{
+	position:relative;
+}
+
+.content-text{
+	color:#fff;
+	text-align:center;
+	position:absolute;
+	bottom:2;
+	opacity:0;
+	height: 373px;
+    width: 463px;
+}
+.content-text:hover{
+	opacity:1;
+	background:#50b0f1;
+	border-radius:5%;
+}
+.content-text h4{
+	color:black;
+	margin-top:220px;
+	margin-left:110px;
+	margin-right:200px;
+	background:#ffffff;
+	padding:10px 10px 10px 10px;
+	
+}
+.content-text a i{
+	font-size:15px;
+	position:absolute;
+	right:190;
+	top:230;
+	color:black;
+	background:#fff;
+}
+.prices-area{
+	margin-bottom:10px;
+	text-align:center;
+	margin-left:90px;
+	display:inline-block;
+}
+.price-item{
+	text-align:center;
+	padding:25px 15px 25px 15px;
+	border:1px solid #e3e0e0;
+	display:inline-block;
+	margin-top:15px;
+	height:550px;
+	width:370px;
+}
+.price-item:hover>h2{
+	color:#3c8cf2;
+}
+.price-item:hover>h5{
+	color:#3c8cf2;
+}
+.price-item:hover>p{
+	color:#3c8cf2;
+}
+.price-item p{
+	color:#a9a9a9;
+	padding:10px;
+}
+.price-item h2{
+	margin-top:15px;
+	color:#3c8cf2;
+}
+.price-item h5{
+	font-size:15px;
+	color:black;
+	padding:5px;
+}
+.option{
+	margin-top:80px;
+	color:#a9a9a9;
+}
+.option a{
+	color:#ffffff;
+	text-align:center;
+	padding:8px 25px 8px 25px;
+	font-size:18px;
+	font-family:Myriad Pro;
+	background:#2ecc71;
+}
+
+
+.blog-area{
+	margin-bottom:20px;
+	min-height:300px
+}
+.blog-item:hover{
+background:#f3f3f3;
+width:370px;
+height:220px;
+padding-top:20px;
+padding-left:20px;
+}
+.blog-item{
+	margin-top:70px;
+}
+.blog-item a{
+	color:#59e4c0;
+	margin-right:20px;
+}
+.blog-item a i{
+	margin-left:10px;
+	color:#59e4c0;
+}
+.blog-item h4{
+	margin-bottom:10px;
+	margin-right:60px;
+}
+.blog-item p{
+	color:#a9a9a9;
+	margin-top:40px;
+}
+.marketing-area{
+	text-align:center;
+margin-top:180px;
+margin-bottom:20px;
+background:linear-gradient(#07bbfd,#4384ee);
+padding-top:75px;
+padding-bottom:75px;
+}
+.marketing-area h3{
+	color:#fff;
+	margin-bottom:40px;
+}
+.marketing-area a{
+	color:black;
+	background:#fff;
+	padding:10px 40px 10px 40px;
+}
+
+.footer-area{
+	margin-top:100px;
+}
+.footer{
+	margin:100px 380px 5px 380px;
+	color:#8e8989;
+}
+.footer-contain img{
+	margin-bottom:30px;
+	margin-top:15px;
+}
+.footer-contain h5{
+	color:black;
+	text-align:justify;
+}
+.footer-contain p:hover{
+	color:#ef476f;
+}
+.footer-contain h4:hover{
+	color:#ef476f;
+}
+.footer-contain a{
+	margin-left:20px;
+	color:black;
+}
+.footer-contain a i{
+	margin-right:10px;
+}
+
+.footer-contain a:hover{
+	color:#ef476f;
+}
+.link{
+	padding:5px;
+	padding-right:45px;
+}
